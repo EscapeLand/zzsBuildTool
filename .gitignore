@@ -342,3 +342,5 @@ ASALocalRun/
 healthchecksdb
 /BuildTool/lib
 /BuildTool/src
+
+desktop.ini
